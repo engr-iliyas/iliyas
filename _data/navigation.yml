@@ -1,8 +1,8 @@
 - name: Home
-  link: 
+  link: index.html
 # - name: About
 #  link: about.html
 - name: Contact
-  link: 
+  link: index.html
 - name: About
   link: about.html
