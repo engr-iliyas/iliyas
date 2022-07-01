@@ -2,7 +2,7 @@
   link: index.html
 # - name: About
 #  link: about.html
-- name: Contact
-  link: index.html
+- name: Blog
+  link: blog.html
 - name: About
   link: about.html
