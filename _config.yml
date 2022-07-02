@@ -1,2 +1,4 @@
 url    : "https://engr-iliyas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/iliyas" # the subpath of your site, e.g. /blog
+collections:
+  authors:
